@@ -1,0 +1,2 @@
+# Web search: real DuckDuckGo results (latest reports)
+duckduckgo-search>=4.0.0
