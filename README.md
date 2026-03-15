@@ -410,5 +410,5 @@ Always verify trading decisions independently.
 
 * Proper memory implementation
 * TODO list based research mode for longer queries 
-* Immproving backtesting mmethods
+* Improving backtesting methods
 * General behavioural fixes where the agent does not fetch data , after fetching it once and storing it in memory .
